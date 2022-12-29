@@ -212,7 +212,7 @@ Height of output image.\
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="input.width" type="Integer" %}
-With of output image.\
+Width of output image.\
 128, 256, 384, 448, 512, 576, 640, 704, 768
 
 **Default: 512**\
